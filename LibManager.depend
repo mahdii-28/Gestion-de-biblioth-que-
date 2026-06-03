@@ -1,0 +1,453 @@
+# depslib dependency file v1.0
+1767195357 source:c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1767194633 source:c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\str_manip.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1764011077 c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\str_manip.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767193546 source:c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\book.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"book.h"
+
+1767086647 c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\book.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767195320 source:c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\date.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"date.h"
+
+1764010606 c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\date.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767195303 source:c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\subcriber.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+	"subcriber.h"
+
+1767087918 c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\subcriber.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+
+1767195337 source:c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\library.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+	"library.h"
+
+1767115311 c:\users\lenovo\desktop\gestionnaire du bibliothéque\libmanager\library.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+
+1767193546 source:c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\book.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"book.h"
+
+1764011077 c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\str_manip.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767086647 c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\book.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767195320 source:c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\date.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"date.h"
+
+1764010606 c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\date.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767480059 source:c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\library.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+	"library.h"
+
+1767087918 c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\subcriber.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+
+1767482230 c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\library.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+
+1767284092 source:c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+	"str_manip.h"
+
+1767195378 source:c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\str_manip.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767482919 source:c:\users\azus\desktop\projet c\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\subcriber.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+	"subcriber.h"
+
+1767524279 source:c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\book.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"book.h"
+
+1764011077 c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\str_manip.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767086647 c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\book.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767195320 source:c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\date.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"date.h"
+
+1764010606 c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\date.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767195378 source:c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\str_manip.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767526610 source:c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\subcriber.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+	"subcriber.h"
+
+1767087918 c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\subcriber.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+
+1767544918 source:c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\library.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+	"library.h"
+
+1767523714 c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\library.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+
+1767543200 source:c:\users\lenovo\desktop\fac\gestionnaire du bibliothéque\gestionnaire du bibliothéque\libmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+	"str_manip.h"
+
+1767604937 source:c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\book.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"book.h"
+
+1764011077 c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\str_manip.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767569419 c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\book.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767195320 source:c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\date.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"date.h"
+
+1764010606 c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\date.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767608954 source:c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+	"str_manip.h"
+	<direct.h>
+	<errno.h>
+	<locale.h>
+	<windows.h>
+	<ctype.h>
+
+1767554835 c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\library.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+
+1767563404 c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\subcriber.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+
+1767195378 source:c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\str_manip.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767606196 source:c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\subcriber.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+	"subcriber.h"
+
+1767554835 source:c:\users\lenovo\desktop\fac\gest_bib\gestionnaire du bibliothéque\libmanager\library.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+	"library.h"
+
+1767604937 source:c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\book.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"book.h"
+
+1764011077 c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\str_manip.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767569419 c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\book.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1767610259 source:c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\date.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+	"date.h"
+
+1764010606 c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\date.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767554835 source:c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\library.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+	"library.h"
+
+1767563404 c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\subcriber.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+
+1767554835 c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\library.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"subcriber.h"
+	"str_manip.h"
+
+1767608954 source:c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"library.h"
+	"str_manip.h"
+	<direct.h>
+	<errno.h>
+	<locale.h>
+	<windows.h>
+	<ctype.h>
+
+1767195378 source:c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\str_manip.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"str_manip.h"
+
+1767611031 source:c:\users\azus\desktop\sys_gest_bib\gest_bib\gestionnaire du bibliothéque\libmanager\subcriber.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"book.h"
+	"date.h"
+	"str_manip.h"
+	"subcriber.h"
+
